@@ -1,0 +1,39 @@
+table{
+	width: 70% cetered;
+	border: 3px solid thick black;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: arial;
+}
+tr, td{
+	border:2px solid thick black;
+	padding:3px;
+	vertical-align: top;
+}
+img{
+	width:100%;
+}
+td.pic{
+	width:70%;
+	background-color: yellow;
+}
+td#last{
+	width:30%;
+	background-color: lightgray;
+}
+td.thirtyFive{
+	width:35%;
+	background-color: lightgreen;
+}
+body {
+	background-image: url(images/music.gif);
+}
+p.scroll {
+Background-color: lime;
+Width: 250px; height: 300px;
+Overflow: scroll;
+Padding-right:10px;
+Padding-left:10px;
+margin-left: auto;
+margin-right: auto;
+}
